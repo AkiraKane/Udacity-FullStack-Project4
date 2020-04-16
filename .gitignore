@@ -15,7 +15,7 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-k8s
+k8s/
 
 # Coverage reports
 htmlcov/
