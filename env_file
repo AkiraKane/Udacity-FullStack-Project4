@@ -1,0 +1,2 @@
+JWT_SECRET="akira"
+LOG_LEVEL=DEBUG
